@@ -10,3 +10,6 @@ For now, we'll stick with SpringBoot (MVC) on the front end.
 
 ![image](https://user-images.githubusercontent.com/46858153/121122493-30abea80-c83f-11eb-848e-3ae931be3683.png)
 
+
+![image](https://user-images.githubusercontent.com/46858153/121146790-e5ed9b00-c85d-11eb-8b45-98379b6a0141.png)
+
